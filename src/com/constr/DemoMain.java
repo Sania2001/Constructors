@@ -6,7 +6,7 @@ import java.sql.SQLOutput;
 
 public class DemoMain {
     public static void main(String[] args) {
-        DemoSubclass demo = new DemoSubclass();
+        DemoSubclass demo = new DemoSubclass(190);
         System.out.println(demo.x);
     }
 

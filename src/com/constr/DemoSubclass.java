@@ -6,8 +6,4 @@ public class DemoSubclass {
     public DemoSubclass(int x) {
         this.x = x;
     }
-
-    public DemoSubclass(){
-        x = 120;
-    }
 }
